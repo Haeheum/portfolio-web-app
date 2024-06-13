@@ -87504,7 +87504,7 @@ A.a0s.prototype={
 $1(a){return A.a_D(a.b,"OnAppStateChange")},
 $S:72}
 A.a0v.prototype={
-$1(a){return a.a},
+$1(a){return"sounds/bgm/"+a.a},
 $S:511}
 A.a0w.prototype={
 $1(a){A.a_D(a.I(),"AudioState")},
