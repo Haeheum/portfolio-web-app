@@ -28101,8 +28101,9 @@ _.O$=0
 _.W$=c
 _.ab$=_.a9$=0
 _.b0$=!1},
-kx:function kx(a,b){this.a=a
-this.c=b},
+kx:function kx(a,b,c){this.a=a
+this.b=b
+this.c=c},
 fd:function fd(a,b,c,d,e){var _=this
 _.c=a
 _.d=b
@@ -93331,8 +93332,7 @@ B.b.a_b(o)
 p=A.l4(null,p)
 p.a3(0,o)
 q.f=p
-p.gV(0).toString
-q.w.sm(0,"\ubcc4\uc740")
+q.w.sm(0,p.gV(0).b)
 q.x.sm(0,q.f.gV(0).c)
 n.gWT().mT(q.gaoO())
 return A.H(null,r)}})
@@ -93365,8 +93365,7 @@ r.cN(0)
 r=s.f
 r===$&&A.b()
 r.fh(0,r.rg())
-s.f.gV(0).toString
-s.w.sm(0,"\ubcc4\uc740")
+s.w.sm(0,s.f.gV(0).b)
 s.x.sm(0,s.f.gV(0).c)
 if(s.r)A.ayn(new A.am4(s),null)},
 Br(){var s=0,r=A.J(t.H),q=this,p,o
@@ -93380,8 +93379,7 @@ o.cN(0)
 if(p==null||B.h.bW(p.a,2e6)<=0){o=q.f
 o===$&&A.b()
 o.u4(o.hk(0))
-q.f.gV(0).toString
-q.w.sm(0,"\ubcc4\uc740")
+q.w.sm(0,q.f.gV(0).b)
 q.x.sm(0,q.f.gV(0).c)}if(q.r)A.ayn(new A.am7(q),null)
 return A.H(null,r)}})
 return A.I($async$Br,r)},
@@ -101373,10 +101371,10 @@ B.a9=new A.c5(2,"pressed")
 B.a6Q=new A.dL([B.a9],t.El)
 B.K=new A.c5(1,"focused")
 B.a6R=new A.dL([B.K],t.El)
-B.Ia=new A.kx("bgm1.mp3","\uc0dd\uc77c \ucd95\ud558\ud574 (With. \uc815\uc720\ube48)")
-B.Ic=new A.kx("bgm2.mp3","Quest")
-B.Ib=new A.kx("bgm3.mp3","\uaf2d")
-B.mr=new A.dL([B.Ia,B.Ic,B.Ib],A.aq("dL<kx>"))
+B.Ib=new A.kx("bgm1.m4a","\ubcc4\uc740","\ub2e4\uc2dc \uc2dc\uc791\ub41c \uafc8\ucc98\ub7fc")
+B.Ia=new A.kx("bgm2.m4a","\u110b\u1165\u110f\u116e\u1105\u1166\u110b\u1175\u11ab","\u1102\u1162\u1100\u1166\u1103\u1169 \u1107\u1169\u11b7\u110b\u1175 \u110b\u1169\u11af\u1101\u1161\u110b\u116d (Feat. \u110b\u1173\u11ab\u1107\u1175 (\u1107\u1167\u11af\u110b\u1173\u11ab))")
+B.Ic=new A.kx("bgm3.m4a","\ubcc4\uc740","\uc0dd\uc77c \ucd95\ud558\ud574 (With. \uc815\uc720\ube48)")
+B.mr=new A.dL([B.Ib,B.Ia,B.Ic],A.aq("dL<kx>"))
 B.a6T=new A.ha(B.bF,0,A.aq("ha<dS>"))
 B.a6S=new A.ha(B.bF,0,A.aq("ha<c5>"))
 B.a6U=new A.dL([10,11,12,13,133,8232,8233],t.Ih)
