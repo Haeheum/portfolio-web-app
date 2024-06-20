@@ -93144,7 +93144,7 @@ var $async$Jj=A.K(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:o=A.o(B.mr).i("iu<1,q>")
 n=A.ae(new A.iu(B.mr,new A.a5D(),o),!0,o.i("l.E"))
 for(o=n.length,q=0;q<o;++q){p=n[q]
-$.aCl().vq("sounds/bgm/"+A.j(p))}return A.H(null,r)}})
+$.aCl().vq("assets/sounds/bgm/"+A.j(p))}return A.H(null,r)}})
 return A.I($async$Jj,r)}}
 A.a5D.prototype={
 $1(a){return a.a},
@@ -94466,7 +94466,7 @@ n=A.a6F(i.r?B.os:o.a(A.Q(a).c.h(0,A.ba(p))).y,h,6)
 m=A.a6F(i.r?B.Ly:o.a(A.Q(a).c.h(0,A.ba(p))).y,h,6)
 l=t.D
 m=A.i2(A.a([B.GZ,n,B.GY,m,B.GY,A.a6F(i.r?B.KK:o.a(A.Q(a).c.h(0,A.ba(p))).y,h,6),B.GZ],l),B.ao,B.aH,B.c4)
-n=A.aEQ(i.r?"images/folder_colored.png":"images/folder_disabled.png",h,14,14)
+n=A.aEQ(i.r?"assets/images/folder_colored.png":"assets/images/folder_disabled.png",h,14,14)
 A.bS(a,B.a8,t.c).toString
 k=A.d6("HAEHEUM JO",h,"myName",A.a([],t.f),h)
 r=A.es(h,A.i2(A.a([m,new A.eu(1,B.bs,A.i2(A.a([n,B.a7Z,new A.eu(1,B.bs,A.ek(k,h,h,B.ba,h,B.cO.bF(i.r?o.a(A.Q(a).c.h(0,A.ba(p))).w:o.a(A.Q(a).c.h(0,A.ba(p))).y),h,h),h)],l),B.ao,B.aH,B.c4),h),new A.eu(1,B.bs,A.es(h,h,B.w,h,B.II,h,h,h,h,h,h,h,h,h),h)],l),B.ao,B.lP,B.b0),B.w,h,h,new A.cI(r,h,h,B.In,h,h,B.an),h,27,h,h,h,h,h,h)
