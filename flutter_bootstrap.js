@@ -9,8 +9,15 @@ if (!window._flutter) {
 _flutter.buildConfig = {"engineRevision":"edd8546116457bdf1c5bdfb13ecb9463d2bb5ed4","builds":[{"compileTarget":"dart2js","renderer":"auto","mainJsPath":"main.dart.js"}]};
 
 
+const loading = document.createElement('div');
+document.body.appendChild(loading);
+loading.textContent = "Loading Entrypoint...";
 _flutter.loader.load({
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "3290153664"
+  onEntrypointLoaded: async function(engineInitializer) {
+    loading.textContent = "Initializing engine...";
+    const appRunner = await engineInitializer.initializeEngine();
+
+    loading.textContent = "Running app...";
+    await appRunner.runApp();
   }
 });
