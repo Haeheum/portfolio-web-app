@@ -342,8 +342,10 @@ _1184: (x0,x1) => x0.width = x1,
 _1186: (x0,x1) => x0.height = x1,
 _1189: (x0,x1) => x0.getContext(x1),
 _1264: x0 => x0.status,
+_1265: x0 => x0.headers,
 _1266: x0 => x0.body,
 _1267: x0 => x0.arrayBuffer(),
+_1270: (x0,x1) => x0.get(x1),
 _1272: x0 => x0.read(),
 _1273: x0 => x0.value,
 _1274: x0 => x0.done,
@@ -474,6 +476,13 @@ _1538: x0 => x0.ready,
 _1539: x0 => x0.selectedTrack,
 _1540: x0 => x0.repetitionCount,
 _1541: x0 => x0.frameCount,
+_1586: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
+_1587: (x0,x1,x2) => x0.setRequestHeader(x1,x2),
+_1588: f => finalizeWrapper(f,x0 => dartInstance.exports._1588(f,x0)),
+_1589: (x0,x1,x2) => x0.addEventListener(x1,x2),
+_1590: f => finalizeWrapper(f,x0 => dartInstance.exports._1590(f,x0)),
+_1591: x0 => x0.send(),
+_1592: () => new XMLHttpRequest(),
 _1593: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
 _1595: (x0,x1) => x0.createElement(x1),
 _1603: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
@@ -518,6 +527,13 @@ _1688: () => {
 _1689: () => typeof dartUseDateNowForTicks !== "undefined",
 _1690: () => 1000 * performance.now(),
 _1691: () => Date.now(),
+_1692: () => {
+      // On browsers return `globalThis.location.href`
+      if (globalThis.location != null) {
+        return stringToDartString(globalThis.location.href);
+      }
+      return null;
+    },
 _1694: () => new WeakMap(),
 _1695: (map, o) => map.get(o),
 _1696: (map, o, v) => map.set(o, v),
@@ -701,6 +717,9 @@ _1918: () => globalThis.window,
 _1939: x0 => x0.matches,
 _1943: x0 => x0.platform,
 _1948: x0 => x0.navigator,
+_1955: x0 => x0.status,
+_1956: (x0,x1) => x0.responseType = x1,
+_1958: x0 => x0.response,
 _1992: (x0,x1) => x0.withCredentials = x1,
 _1995: x0 => x0.responseURL,
 _1996: x0 => x0.status,
@@ -723,7 +742,8 @@ _3757: () => globalThis.window,
 _3837: x0 => x0.navigator,
 _4318: x0 => x0.userAgent,
 _7057: x0 => x0.destination,
-_8732: () => globalThis.document
+_8732: () => globalThis.document,
+_14601: () => globalThis.window.flutterCanvasKit
     };
 
     const baseImports = {
