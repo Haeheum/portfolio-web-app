@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="docs: fix message">
-      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.js.symbols" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/version.json" beforeDir="false" />
+    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: network simulation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720219889683</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="feat: network simulation">
+      <option name="closed" value="true" />
+      <created>1720283319495</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1720283319495</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +300,7 @@
     <MESSAGE value="fix: fix bugs" />
     <MESSAGE value="feat: interactive plate" />
     <MESSAGE value="docs: fix message" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: fix message" />
+    <MESSAGE value="feat: network simulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: network simulation" />
   </component>
 </project>
