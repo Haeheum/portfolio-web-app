@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: network simulation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: inversion effect" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720283319495</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="feat: network simulation">
+      <option name="closed" value="true" />
+      <created>1720285222419</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1720285222419</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feat: inversion effect">
+      <option name="closed" value="true" />
+      <created>1720368165840</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720368165840</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +315,7 @@
     <MESSAGE value="feat: interactive plate" />
     <MESSAGE value="docs: fix message" />
     <MESSAGE value="feat: network simulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: network simulation" />
+    <MESSAGE value="feat: inversion effect" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: inversion effect" />
   </component>
 </project>
