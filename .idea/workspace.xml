@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: inversion effect" />
+    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: new portfolio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720368165840</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat: new portfolio">
+      <option name="closed" value="true" />
+      <created>1723979503234</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723979503234</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +324,7 @@
     <MESSAGE value="docs: fix message" />
     <MESSAGE value="feat: network simulation" />
     <MESSAGE value="feat: inversion effect" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: inversion effect" />
+    <MESSAGE value="feat: new portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: new portfolio" />
   </component>
 </project>
