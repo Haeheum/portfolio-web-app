@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: new portfolio" />
+    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: card flip">
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723979503234</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat: card flip">
+      <option name="closed" value="true" />
+      <created>1724568735159</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1724568735159</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +336,7 @@
     <MESSAGE value="feat: network simulation" />
     <MESSAGE value="feat: inversion effect" />
     <MESSAGE value="feat: new portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: new portfolio" />
+    <MESSAGE value="feat: card flip" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: card flip" />
   </component>
 </project>
