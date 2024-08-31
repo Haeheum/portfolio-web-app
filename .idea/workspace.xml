@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: card flip">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: scroll offset applied" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +16,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Haeheum&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "Haeheum"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "Haeheum"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Haeheum/portfolio-web-app.git&quot;,
@@ -304,7 +306,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724929935498</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="feat: shader plate">
+      <option name="closed" value="true" />
+      <created>1725004894142</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725004894142</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat: fade in image">
+      <option name="closed" value="true" />
+      <created>1725007416347</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725007416347</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat: scroll offset applied">
+      <option name="closed" value="true" />
+      <created>1725019471174</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1725019471174</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +370,9 @@
     <MESSAGE value="feat: inversion effect" />
     <MESSAGE value="feat: new portfolio" />
     <MESSAGE value="feat: card flip" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: card flip" />
+    <MESSAGE value="feat: shader plate" />
+    <MESSAGE value="feat: fade in image" />
+    <MESSAGE value="feat: scroll offset applied" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: scroll offset applied" />
   </component>
 </project>
