@@ -87713,12 +87713,13 @@ ami(a,b){var s=this
 if(!(a instanceof A.iz))return s
 return new A.iz(A.r(s.a,a.a,b),A.r(s.b,a.b,b),A.r(s.c,a.c,b),A.r(s.d,a.d,b),A.r(s.e,a.e,b),A.r(s.f,a.f,b),A.r(s.r,a.r,b),A.r(s.w,a.w,b),A.r(s.x,a.x,b),A.r(s.y,a.y,b),A.r(s.z,a.z,b),A.r(s.Q,a.Q,b),A.r(s.as,a.as,b),A.r(s.at,a.at,b))}}
 A.a5i.prototype={
-HU(){var s=0,r=A.G(t.H),q=this,p,o,n,m,l
+HU(){var s=0,r=A.G(t.H),q,p=this,o,n,m,l,k
 var $async$HU=A.H(function(a,b){if(a===1)return A.D(b,r)
-while(true)switch(s){case 0:m=A.n(B.lK).i("iy<1,q>")
-l=A.ag(new A.iy(B.lK,new A.a5j(),m),!0,m.i("m.E"))
-for(m=l.length,p=t.P,o=0;o<l.length;l.length===m||(0,A.Q)(l),++o){n=l[o]
-$.aDF().dD(0,n).c1(new A.a5k(q,l),p)}return A.E(null,r)}})
+while(true)switch(s){case 0:if(J.e(p.a.a,100)){s=1
+break}o=A.n(B.lK).i("iy<1,q>")
+n=A.ag(new A.iy(B.lK,new A.a5j(),o),!0,o.i("m.E"))
+for(o=n.length,m=t.P,l=0;l<n.length;n.length===o||(0,A.Q)(n),++l){k=n[l]
+$.aDF().dD(0,k).c1(new A.a5k(p,n),m)}case 1:return A.E(q,r)}})
 return A.F($async$HU,r)}}
 A.a5j.prototype={
 $1(a){return"sounds/bgm/"+a.a},

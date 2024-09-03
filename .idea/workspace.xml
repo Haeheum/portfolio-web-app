@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: scroll offset applied" />
+    <list default="true" id="88604dc4-0282-40f2-966d-e5bad9eea353" name="Changes" comment="feat: image preload before audio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,16 +16,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "assignee": "Haeheum"
+      &quot;assignee&quot;: &quot;Haeheum&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "Haeheum"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;Haeheum&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Haeheum/portfolio-web-app.git&quot;,
@@ -330,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725019471174</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feat: image preload before audio">
+      <option name="closed" value="true" />
+      <created>1725114137446</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1725114137446</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +381,7 @@
     <MESSAGE value="feat: shader plate" />
     <MESSAGE value="feat: fade in image" />
     <MESSAGE value="feat: scroll offset applied" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: scroll offset applied" />
+    <MESSAGE value="feat: image preload before audio" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: image preload before audio" />
   </component>
 </project>
