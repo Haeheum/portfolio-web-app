@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2afed2a03aa0dfd583274578e0008946",
-"assets/AssetManifest.bin.json": "22cdee55582e246d7067976838c914b7",
-"assets/AssetManifest.json": "33cf445709e1fb6ba90c664583c0f2e6",
+const RESOURCES = {"assets/AssetManifest.bin": "2eafd2e4567a4729bc2145479c071bf0",
+"assets/AssetManifest.bin.json": "01c3826874f9d67a98e53c80b130ddcd",
+"assets/AssetManifest.json": "bd8c322c3d318362009f49c605dec7bc",
 "assets/assets/images/bee_sad.webp": "2438dba24c58cb3555b385d30f6070a0",
 "assets/assets/images/flag_america.png": "810d59c081a2fbb2ab9cb05f1575c836",
 "assets/assets/images/flag_korea.png": "bd86a49f899f321873a23da72e93bb54",
@@ -16,6 +16,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2afed2a03aa0dfd583274578e0008946
 "assets/assets/images/singer.webp": "d3ff995991ba6cfaba00d750c7df7510",
 "assets/assets/shaders/flashlight.frag": "041a2192c2124a5ef78ec1416db669e4",
 "assets/assets/shaders/glitch.frag": "83ce2809b7230992f2f75fd68d5e1d5f",
+"assets/assets/shaders/magic.frag": "15773f92420b396f0a9e158a832a129d",
 "assets/assets/shaders/pixelation.frag": "46e14dcdfc9154ec5a7657c6b0c0d785",
 "assets/assets/shaders/ripple.frag": "3aa4b17511b1315ff86b6f707d6c19a8",
 "assets/assets/shaders/smoke.frag": "f96687a08225559e1e67ee6b22bd1fb1",
@@ -45,7 +46,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2afed2a03aa0dfd583274578e0008946
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "c0da70633666b9eb82f965cfa4b42611",
 "/": "c0da70633666b9eb82f965cfa4b42611",
-"main.dart.js": "f3d772227ef6cb031ed48d3d2dcf320d",
+"main.dart.js": "795f51c8d8addc3f00956d6e52c28044",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "style.css": "228712c476bf8cb06e391c064478ad61",
 "version.json": "0325640b78b9f97959290dc5ebb8b3ed"};
