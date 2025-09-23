@@ -1,0 +1,1 @@
+const kDefaultVolume = 0.2;

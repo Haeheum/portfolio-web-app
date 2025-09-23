@@ -1,0 +1,47 @@
+{
+
+  "abc": "가나다",
+  "messageAudioLoading": "배경음악 준비 중",
+
+  "home" : "홈",
+  "inventory" : "도구함",
+  "projects" : "프로젝트",
+  "contact" : "연락처",
+
+  "sunMoonSwitchTitle" : "커스텀 위젯",
+
+  "shimmerEffectTitle" : "로딩 UI",
+
+  "confettiTitle" : "커스텀 페인트",
+  "digitalRainTitle" : "비",
+
+  "shaderWaterTitle" : "물 효과",
+  "shaderGlitchTitle" : "치지직 효과",
+  "shaderPixelationTitle" : "모자이크 효과",
+  "shaderFlashlightTitle" : "손전등 효과",
+  "shaderRippleTitle" : "잔물결 효과",
+  "shaderSmokeTitle" : "연기 효과",
+  "shaderMagicTitle" : "마법 효과",
+  "shaderNightVisionTitle" : "야간 투시경 효과",
+  "shaderRainWindowTitle" : "빗방울 효과",
+
+
+  "cardFlipTitle": "카드 뒤집기",
+  "interactivePlateTitle" : "흐느적 인터렉션",
+
+  "fetchImageTitle" : "네트워크 이미지 로딩",
+  "fetchImageErrorText" : "이미지 로딩 실패",
+  "fetchImage" : "이미지 불러오기",
+
+  "circleCollisionTitle" : "원 충돌 감지",
+
+  "flashEffectTitle" : "구역 반전 효과",
+
+  "shaderMaskTitle" : "쉐이더 마스크",
+
+  "address" : "주소",
+  "addressInfo" : "대구, 대한민국",
+  "email" : "메일",
+  "phone" : "휴대폰",
+  "contactMe" : "감사합니다."
+}

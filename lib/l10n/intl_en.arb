@@ -1,0 +1,46 @@
+{
+  "abc": "ABC",
+  "messageAudioLoading" : "Loading background musics",
+
+  "home" : "Home",
+  "skills" : "Skills",
+  "inventory" : "Inventory",
+  "projects" : "Projects",
+  "contact" : "Contact",
+
+  "sunMoonSwitchTitle" : "Custom widget",
+
+  "shimmerEffectTitle" : "Skeleton UI",
+
+  "confettiTitle" : "Custom paint",
+  "digitalRainTitle" : "Rain",
+
+  "shaderWaterTitle" : "Water effect",
+  "shaderGlitchTitle" : "Glitch effect",
+  "shaderPixelationTitle" : "Pixelation effect",
+  "shaderFlashlightTitle" : "Flashlight effect",
+  "shaderRippleTitle" : "Ripple effect",
+  "shaderSmokeTitle" : "Smoke effect",
+  "shaderMagicTitle" : "Magic effect",
+  "shaderNightVisionTitle" : "Night Vision effect",
+  "shaderRainWindowTitle" : "Rain Window effect",
+
+
+  "cardFlipTitle": "Card flip",
+
+  "interactivePlateTitle" : "Interactive plate",
+
+  "fetchImageTitle" : "Network image loading",
+  "fetchImageErrorText" : "Loading Failed",
+  "fetchImage" : "Load image",
+
+  "circleCollisionTitle" : "Circle collision detection",
+  "flashEffectTitle" : "Area inversion effect",
+
+  "shaderMaskTitle" : "Shader mask",
+  "address" : "Address",
+  "addressInfo" : "Daegu, South Korea",
+  "email" : "Email",
+  "phone" : "Phone",
+  "contactMe" : "Call me!"
+}
