@@ -24,7 +24,7 @@ class MessageLookup extends MessageLookupByLibrary {
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
     "abc": MessageLookupByLibrary.simpleMessage("あいうえお"),
     "address": MessageLookupByLibrary.simpleMessage("住所"),
-    "addressInfo": MessageLookupByLibrary.simpleMessage("韓国 大邱（テグ）"),
+    "addressInfo": MessageLookupByLibrary.simpleMessage("東京都 大田区"),
     "cardFlipTitle": MessageLookupByLibrary.simpleMessage("カードフリップ"),
     "circleCollisionTitle": MessageLookupByLibrary.simpleMessage("円の衝突判定"),
     "confettiTitle": MessageLookupByLibrary.simpleMessage("カスタムペイント"),
