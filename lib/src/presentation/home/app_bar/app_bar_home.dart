@@ -39,6 +39,7 @@ class _AppBarHomeBody extends StatelessWidget {
             initialSelection: switch (
                 AppStateScope.of(context).appLocale.languageCode) {
               'en' => LanguageOptions.english,
+              'ja' => LanguageOptions.japanese,
               'ko' => LanguageOptions.korean,
               _ => throw UnsupportedError('Unsupported Language')
             },

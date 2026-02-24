@@ -44,7 +44,7 @@ class PageContact extends StatelessWidget {
             child: ListTile(
               leading: const Icon(Icons.mail_rounded),
               title: Text(S.of(context).email),
-              subtitle: const SelectableText('hammizzang@naver.com'),
+              subtitle: SelectableText(S.of(context).emailAddress),
             ),
           ),
           Card(
@@ -54,7 +54,7 @@ class PageContact extends StatelessWidget {
             child: ListTile(
               leading: const Icon(Icons.phone_iphone_rounded),
               title: Text(S.of(context).phone),
-              subtitle: const SelectableText('+82 10 4083 7389'),
+              subtitle: SelectableText(S.of(context).phoneNumber),
             ),
           ),
           const Spacer(),

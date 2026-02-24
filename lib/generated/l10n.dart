@@ -309,9 +309,29 @@ class S {
     return Intl.message('Email', name: 'email', desc: '', args: []);
   }
 
+  /// `hammizzang@gmail.com`
+  String get emailAddress {
+    return Intl.message(
+      'hammizzang@gmail.com',
+      name: 'emailAddress',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Phone`
   String get phone {
     return Intl.message('Phone', name: 'phone', desc: '', args: []);
+  }
+
+  /// `+82 1040837389`
+  String get phoneNumber {
+    return Intl.message(
+      '+82 1040837389',
+      name: 'phoneNumber',
+      desc: '',
+      args: [],
+    );
   }
 
   /// `Call me!`
@@ -326,6 +346,7 @@ class AppLocalizationDelegate extends LocalizationsDelegate<S> {
   List<Locale> get supportedLocales {
     return const <Locale>[
       Locale.fromSubtags(languageCode: 'en'),
+      Locale.fromSubtags(languageCode: 'ja'),
       Locale.fromSubtags(languageCode: 'ko'),
     ];
   }

@@ -32,6 +32,9 @@ class MessageLookup extends MessageLookupByLibrary {
     "contactMe": MessageLookupByLibrary.simpleMessage("감사합니다."),
     "digitalRainTitle": MessageLookupByLibrary.simpleMessage("비"),
     "email": MessageLookupByLibrary.simpleMessage("메일"),
+    "emailAddress": MessageLookupByLibrary.simpleMessage(
+      "hammizzang@gmail.com",
+    ),
     "fetchImage": MessageLookupByLibrary.simpleMessage("이미지 불러오기"),
     "fetchImageErrorText": MessageLookupByLibrary.simpleMessage("이미지 로딩 실패"),
     "fetchImageTitle": MessageLookupByLibrary.simpleMessage("네트워크 이미지 로딩"),
@@ -41,6 +44,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "inventory": MessageLookupByLibrary.simpleMessage("도구함"),
     "messageAudioLoading": MessageLookupByLibrary.simpleMessage("배경음악 준비 중"),
     "phone": MessageLookupByLibrary.simpleMessage("휴대폰"),
+    "phoneNumber": MessageLookupByLibrary.simpleMessage("01040837389"),
     "projects": MessageLookupByLibrary.simpleMessage("프로젝트"),
     "shaderFlashlightTitle": MessageLookupByLibrary.simpleMessage("손전등 효과"),
     "shaderGlitchTitle": MessageLookupByLibrary.simpleMessage("치지직 효과"),

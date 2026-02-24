@@ -42,6 +42,8 @@
   "address" : "주소",
   "addressInfo" : "대구, 대한민국",
   "email" : "메일",
+  "emailAddress" : "hammizzang@gmail.com",
   "phone" : "휴대폰",
+  "phoneNumber" : "01040837389",
   "contactMe" : "감사합니다."
 }

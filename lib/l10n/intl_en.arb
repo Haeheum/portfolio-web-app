@@ -41,6 +41,8 @@
   "address" : "Address",
   "addressInfo" : "Daegu, South Korea",
   "email" : "Email",
+  "emailAddress" : "hammizzang@gmail.com",
   "phone" : "Phone",
+  "phoneNumber" : "+82 1040837389",
   "contactMe" : "Call me!"
 }

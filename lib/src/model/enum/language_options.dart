@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 enum LanguageOptions {
+  japanese('ja', '日本語', AssetImage('assets/images/flag_japan.png')),
   korean('ko', '한글', AssetImage('assets/images/flag_korea.png')),
   english('en', 'English', AssetImage('assets/images/flag_america.png'));
 

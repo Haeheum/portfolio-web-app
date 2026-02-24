@@ -34,6 +34,9 @@ class MessageLookup extends MessageLookupByLibrary {
     "contactMe": MessageLookupByLibrary.simpleMessage("Call me!"),
     "digitalRainTitle": MessageLookupByLibrary.simpleMessage("Rain"),
     "email": MessageLookupByLibrary.simpleMessage("Email"),
+    "emailAddress": MessageLookupByLibrary.simpleMessage(
+      "hammizzang@gmail.com",
+    ),
     "fetchImage": MessageLookupByLibrary.simpleMessage("Load image"),
     "fetchImageErrorText": MessageLookupByLibrary.simpleMessage(
       "Loading Failed",
@@ -53,6 +56,7 @@ class MessageLookup extends MessageLookupByLibrary {
       "Loading background musics",
     ),
     "phone": MessageLookupByLibrary.simpleMessage("Phone"),
+    "phoneNumber": MessageLookupByLibrary.simpleMessage("+82 1040837389"),
     "projects": MessageLookupByLibrary.simpleMessage("Projects"),
     "shaderFlashlightTitle": MessageLookupByLibrary.simpleMessage(
       "Flashlight effect",
